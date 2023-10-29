@@ -1,2 +1,1 @@
-My first readme.
-i am a ALX sofware engineer
+I am a ALX sofware engineer
